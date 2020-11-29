@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+Join the local Microsoft-technology focused technical communities to learn, connect and share.
 
-You can use the [editor on GitHub](https://github.com/msdevbe/techgroups/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Belgium
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Name | Topic | 
+| ---- | ----- | 
+| [.NET Brussels](https://www.meetup.com/Net-Brussels/) | .NET, development |
+| [AZUG](https://www.azug.be) | Microsoft Azure |
+| [BEMUG](https://www.beemug.be/) | Windows, Microsoft Azure |
+| [Belgian Mobile .NET Developers Group](https://www.meetup.com/Belgian-Mobile-NET-Developers-Group/) | Xamarin |
+| [Belgium PowerApps & Flow User Group](https://www.meetup.com/BEPAFUG) | Microsoft Power Platform |
+| [Belgium Windows Virtual Desktop Meetup](https://www.meetup.com/Belgium-Windows-Virtual-Desktop-User-Group/) | Windows Virtual Desktop |
+| [BEPUG](https://bepug.dev/) | PowerShell |
+| [BIWUG](https://biwug.be/) | Microsoft 365 |
+| [Brussels Developers User Group](https://www.meetup.com/BrusselsDevelopersUserGroup/) | Development, AI |
+| [dataMinds.ai](https://www.meetup.com/dataMinds-ai/) | Data, AI, Machine Learning, Analytics |
+| [Devapps Meetup](https://devapps.ms/meetup) | Development |
+| [MADN](https://madn.be/) | Development |
+| [MC2MC](https://mc2mc.be/) | IT Pro, Management, Security, Microsoft Azure |
+| [PowerBI Wallonie](https://www.meetup.com/Power-BI-User-Group-Wallonie/) | PowerBI |
+| [Technine](http://technine.be/) | IT Pro, Security, Management, Microsoft Azure |
+| [TechTrain Mechelen](https://www.meetup.com/TechTrain-Mechelen/) | Microsoft Azure, Microsoft 365, Cloud Native |
+| [VISUG](http://www.visug.be/) | Development, Tooling |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Luxembourg
 
-```markdown
-Syntax highlighted code block
+| Name | Topic | 
+| ---- | ----- | 
+| [.NET User Group Luxembourg](https://www.meetup.com/dotnet-luxembourg/) | .NET, development |
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msdevbe/techgroups/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
