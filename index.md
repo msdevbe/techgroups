@@ -17,6 +17,7 @@ Join the local Microsoft-technology focused technical communities to learn, conn
 | [Devapps Meetup](https://devapps.ms/meetup) | Development |
 | [MADN](https://madn.be/) | Development |
 | [MC2MC](https://mc2mc.be/) | IT Pro, Management, Security, Microsoft Azure |
+| [Microsoft Cloud & Security Community](https://www.meetup.com/microsoft-cloud-security/) | Cloud, Security |
 | [PowerBI Wallonie](https://www.meetup.com/Power-BI-User-Group-Wallonie/) | PowerBI |
 | [Technine](http://technine.be/) | IT Pro, Security, Management, Microsoft Azure |
 | [TechTrain Mechelen](https://www.meetup.com/TechTrain-Mechelen/) | Microsoft Azure, Microsoft 365, Cloud Native |
